@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\39333\OneDrive\Desktop\LUCA\scuola\superiori\5° superiore\tecnologie\pong\pong\Field.h(2,10): warning C4067: token imprevisti dopo una direttiva per il preprocessore. Previsto un carattere di nuova riga
+C:\Users\39333\OneDrive\Desktop\LUCA\scuola\superiori\5° superiore\tecnologie\pong\pong\Field.h(3,10): warning C4067: token imprevisti dopo una direttiva per il preprocessore. Previsto un carattere di nuova riga
+C:\Users\39333\OneDrive\Desktop\LUCA\scuola\superiori\5° superiore\tecnologie\pong\pong\Main.cpp(7,13): warning C4326: il tipo restituito di 'main' dovrebbe essere 'int' invece di 'void'
+  pong.vcxproj -> C:\Users\39333\OneDrive\Desktop\LUCA\scuola\superiori\5° superiore\tecnologie\pong\Debug\pong.exe
